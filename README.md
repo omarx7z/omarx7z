@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Omar Rojas 👋
+# Hi, I'm Omar Rojas 
 
 ### Full Stack Software Engineer
 
